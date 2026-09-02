@@ -1,2 +1,2 @@
 # kiro-plugins
-ai plugins for kiro
+Ai plugins for kiro ide or cli
